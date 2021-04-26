@@ -167,7 +167,7 @@ Project Link: [https://github.com/as1k/ExpandableRecyclerView](https://github.co
 [issues-shield]: https://img.shields.io/github/issues/oas1k/ExpandableRecyclerView.svg?style=for-the-badge
 [issues-url]: https://github.com/as1k/ExpandableRecyclerView/issues
 [license-shield]: https://img.shields.io/github/license/as1k/ExpandableRecyclerViewe.svg?style=for-the-badge
-[license-url]: https://github.com/as1k/ExpandableRecyclerView/blob/master/LICENSE.txt
+[license-url]: https://github.com/as1k/ExpandableRecyclerView/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/asik/
 [product-screenshot]: images/screenshot.png
