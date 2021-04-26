@@ -39,10 +39,10 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#installation_gradle">Installation (Gradle)</a></li>
+        <li><a href="#installation-(gradle)">Installation (Gradle)</a></li>
       </ul>
       <ul>
-       <li><a href="#installation_maven">Installation (Maven)</a></li>
+       <li><a href="#installation-(maven)">Installation (Maven)</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -159,3 +159,16 @@ Your Name - [@asikn](https://t.me/asikn) - nurmukhambet.ak@gmail.com
 Project Link: [https://github.com/as1k/ExpandableRecyclerView](https://github.com/as1k/ExpandableRecyclerView)
 
  
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-url]: https://github.com/as1k/ExpandableRecyclerView/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-url]: https://github.com/as1k/ExpandableRecyclerView/network/members
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-url]: https://github.com/as1k/ExpandableRecyclerView/stargazers
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-url]: https://github.com/as1k/ExpandableRecyclerView/issues
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/as1k/ExpandableRecyclerView/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/asik/
+[product-screenshot]: images/screenshot.png
